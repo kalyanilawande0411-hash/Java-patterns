@@ -14,3 +14,10 @@ public class Solidrhombus {
     }
     
 }
+
+Output
+    * * * * * 
+   * * * * *
+  * * * * *
+ * * * * *
+* * * * *
